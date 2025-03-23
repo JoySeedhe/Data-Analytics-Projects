@@ -1,3 +1,3 @@
 # Data-Analytics-Projects
 
-Explore a collection of end-to-end data analytics projects showcasing SQL, Python, and Power BI. Gain valuable insights and solutions to real-world problems through data extraction, analysis, and visualization. Ideal for beginners and professionals looking to enhance their skills in data analytics.
+This project focuses on analyzing Amazon sales data to uncover trends, customer behavior, and sales performance using data analytics techniques. It provides actionable insights to optimize sales strategies and improve business outcomes
